@@ -14,7 +14,4 @@ I am a Software Engineer focused on building reliable software solutions and exp
 
 * Software Engineering
 * DevOps & Automation
-* Cloud Native Systems
 * Distributed Applications
-
-📌 I believe in continuous learning, practical implementation, and building solutions that create real-world impact.
